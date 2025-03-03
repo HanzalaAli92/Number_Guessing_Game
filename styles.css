@@ -1,0 +1,45 @@
+.stApp {
+    background-color: #1e1e2f !important;
+    color: #ffffff !important;
+    padding-top: 300px;
+}
+
+.st-emotion-cache-mtjnbi {
+    height: 5000px;
+    width: 100%;
+    padding: 6rem 1rem 10rem;
+    max-width: 736px;
+    padding-top: 150px;
+}
+
+.st-emotion-cache-89jlt8 p {
+    color: white;
+}
+
+.stButton>button {
+    background: linear-gradient(90deg, #4CAF50, #2E8B57);
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    transition: 0.3s;
+    width: 100%;
+    max-width: 300px;
+    display: block;
+    margin: 10px auto;
+}
+
+.stButton>button:hover {
+    background: linear-gradient(90deg, #45a049, #1E6F50);
+}
+
+.stNumberInput>div>div>input {
+    background-color: #2e2e3f !important;
+    color: #ffffff !important;
+    border: 1px solid #4CAF50 !important;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+    max-width: 300px;
+}
